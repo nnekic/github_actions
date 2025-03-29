@@ -1,2 +1,2 @@
-# github
-For the purpose of GitHub Actions
+# github actions
+Repo for the purpose of GitHub Actions.
